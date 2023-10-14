@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1697273431,,"wq"
+|2,0,1697284360,,"wq"
 :q
 |2,0,1697272739,,"q"
 :WQ
@@ -93,12 +93,12 @@
 |3,1,36,0,1,0,1697273176,"c"
 
 # File marks:
-'0  3  5  ~/monitoring.sh
-|4,48,3,5,1697273431,"~/monitoring.sh"
-'1  3  6  ~/monitoring.sh
-|4,49,3,6,1697273358,"~/monitoring.sh"
-'2  4  0  ~/monitoring.sh
-|4,50,4,0,1697273327,"~/monitoring.sh"
+'0  1  1  ~/.gitignore
+|4,48,1,1,1697284360,"~/.gitignore"
+'1  3  5  ~/monitoring.sh
+|4,49,3,5,1697273431,"~/monitoring.sh"
+'2  3  6  ~/monitoring.sh
+|4,50,3,6,1697273358,"~/monitoring.sh"
 '3  4  0  ~/monitoring.sh
 |4,51,4,0,1697273327,"~/monitoring.sh"
 '4  4  0  ~/monitoring.sh
@@ -106,7 +106,7 @@
 '5  4  0  ~/monitoring.sh
 |4,53,4,0,1697273327,"~/monitoring.sh"
 '6  4  0  ~/monitoring.sh
-|4,54,4,0,1697273314,"~/monitoring.sh"
+|4,54,4,0,1697273327,"~/monitoring.sh"
 '7  4  0  ~/monitoring.sh
 |4,55,4,0,1697273314,"~/monitoring.sh"
 '8  4  0  ~/monitoring.sh
@@ -115,8 +115,14 @@
 |4,57,4,0,1697273314,"~/monitoring.sh"
 
 # Jumplist (newest first):
+-'  1  1  ~/.gitignore
+|4,39,1,1,1697284360,"~/.gitignore"
 -'  3  5  ~/monitoring.sh
 |4,39,3,5,1697273431,"~/monitoring.sh"
+-'  3  5  ~/monitoring.sh
+|4,39,3,5,1697273431,"~/monitoring.sh"
+-'  3  6  ~/monitoring.sh
+|4,39,3,6,1697273358,"~/monitoring.sh"
 -'  3  6  ~/monitoring.sh
 |4,39,3,6,1697273358,"~/monitoring.sh"
 -'  4  0  ~/monitoring.sh
@@ -124,7 +130,15 @@
 -'  4  0  ~/monitoring.sh
 |4,39,4,0,1697273345,"~/monitoring.sh"
 -'  4  0  ~/monitoring.sh
+|4,39,4,0,1697273345,"~/monitoring.sh"
+-'  4  0  ~/monitoring.sh
+|4,39,4,0,1697273345,"~/monitoring.sh"
+-'  4  0  ~/monitoring.sh
 |4,39,4,0,1697273327,"~/monitoring.sh"
+-'  4  0  ~/monitoring.sh
+|4,39,4,0,1697273327,"~/monitoring.sh"
+-'  4  0  ~/monitoring.sh
+|4,39,4,0,1697273314,"~/monitoring.sh"
 -'  4  0  ~/monitoring.sh
 |4,39,4,0,1697273314,"~/monitoring.sh"
 -'  13  69  ~/monitoring.sh
@@ -135,6 +149,22 @@
 |4,39,13,69,1697273299,"~/monitoring.sh"
 -'  13  69  ~/monitoring.sh
 |4,39,13,69,1697273299,"~/monitoring.sh"
+-'  13  69  ~/monitoring.sh
+|4,39,13,69,1697273299,"~/monitoring.sh"
+-'  13  69  ~/monitoring.sh
+|4,39,13,69,1697273299,"~/monitoring.sh"
+-'  13  69  ~/monitoring.sh
+|4,39,13,69,1697273299,"~/monitoring.sh"
+-'  13  69  ~/monitoring.sh
+|4,39,13,69,1697273299,"~/monitoring.sh"
+-'  14  69  ~/monitoring.sh
+|4,39,14,69,1697273289,"~/monitoring.sh"
+-'  14  69  ~/monitoring.sh
+|4,39,14,69,1697273289,"~/monitoring.sh"
+-'  14  69  ~/monitoring.sh
+|4,39,14,69,1697273289,"~/monitoring.sh"
+-'  14  69  ~/monitoring.sh
+|4,39,14,69,1697273289,"~/monitoring.sh"
 -'  14  69  ~/monitoring.sh
 |4,39,14,69,1697273289,"~/monitoring.sh"
 -'  14  69  ~/monitoring.sh
@@ -145,8 +175,14 @@
 |4,39,14,69,1697273289,"~/monitoring.sh"
 -'  14  69  ~/monitoring.sh
 |4,39,14,69,1697273235,"~/monitoring.sh"
+-'  14  69  ~/monitoring.sh
+|4,39,14,69,1697273235,"~/monitoring.sh"
 -'  14  16  ~/monitoring.sh
 |4,39,14,16,1697273184,"~/monitoring.sh"
+-'  14  16  ~/monitoring.sh
+|4,39,14,16,1697273184,"~/monitoring.sh"
+-'  14  59  ~/monitoring.sh
+|4,39,14,59,1697273050,"~/monitoring.sh"
 -'  14  59  ~/monitoring.sh
 |4,39,14,59,1697273050,"~/monitoring.sh"
 -'  13  147  ~/monitoring.sh
@@ -156,21 +192,45 @@
 -'  13  147  ~/monitoring.sh
 |4,39,13,147,1697272989,"~/monitoring.sh"
 -'  13  147  ~/monitoring.sh
+|4,39,13,147,1697272989,"~/monitoring.sh"
+-'  13  147  ~/monitoring.sh
+|4,39,13,147,1697272989,"~/monitoring.sh"
+-'  13  147  ~/monitoring.sh
+|4,39,13,147,1697272989,"~/monitoring.sh"
+-'  13  147  ~/monitoring.sh
 |4,39,13,147,1697272739,"~/monitoring.sh"
+-'  13  147  ~/monitoring.sh
+|4,39,13,147,1697272739,"~/monitoring.sh"
+-'  13  147  ~/monitoring.sh
+|4,39,13,147,1697272732,"~/monitoring.sh"
 -'  13  147  ~/monitoring.sh
 |4,39,13,147,1697272732,"~/monitoring.sh"
 -'  13  122  ~/monitoring.sh
 |4,39,13,122,1697272677,"~/monitoring.sh"
+-'  13  122  ~/monitoring.sh
+|4,39,13,122,1697272677,"~/monitoring.sh"
+-'  13  118  ~/monitoring.sh
+|4,39,13,118,1697272605,"~/monitoring.sh"
 -'  13  118  ~/monitoring.sh
 |4,39,13,118,1697272605,"~/monitoring.sh"
 -'  13  102  ~/monitoring.sh
 |4,39,13,102,1697272332,"~/monitoring.sh"
+-'  13  102  ~/monitoring.sh
+|4,39,13,102,1697272332,"~/monitoring.sh"
+-'  13  90  ~/monitoring.sh
+|4,39,13,90,1697272282,"~/monitoring.sh"
 -'  13  90  ~/monitoring.sh
 |4,39,13,90,1697272282,"~/monitoring.sh"
 -'  13  62  ~/monitoring.sh
 |4,39,13,62,1697272241,"~/monitoring.sh"
+-'  13  62  ~/monitoring.sh
+|4,39,13,62,1697272241,"~/monitoring.sh"
 -'  13  71  ~/monitoring.sh
 |4,39,13,71,1697272228,"~/monitoring.sh"
+-'  13  71  ~/monitoring.sh
+|4,39,13,71,1697272228,"~/monitoring.sh"
+-'  13  27  ~/monitoring.sh
+|4,39,13,27,1697272165,"~/monitoring.sh"
 -'  13  27  ~/monitoring.sh
 |4,39,13,27,1697272165,"~/monitoring.sh"
 -'  12  24  ~/monitoring.sh
@@ -206,6 +266,40 @@
 -'  12  24  ~/monitoring.sh
 |4,39,12,24,1697272119,"~/monitoring.sh"
 -'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697272119,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
+|4,39,12,24,1697270422,"~/monitoring.sh"
+-'  12  24  ~/monitoring.sh
 |4,39,12,24,1697270422,"~/monitoring.sh"
 -'  11  79  ~/monitoring.sh
 |4,39,11,79,1697270400,"~/monitoring.sh"
@@ -221,102 +315,15 @@
 |4,39,11,79,1697270400,"~/monitoring.sh"
 -'  11  79  ~/monitoring.sh
 |4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270400,"~/monitoring.sh"
--'  11  79  ~/monitoring.sh
-|4,39,11,79,1697270012,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697269913,"~/monitoring.sh"
--'  17  0  ~/monitoring.sh
-|4,39,17,0,1697267889,"~/monitoring.sh"
--'  11  21  ~/monitoring.sh
-|4,39,11,21,1697267885,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
--'  10  17  ~/monitoring.sh
-|4,39,10,17,1697267799,"~/monitoring.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1697284358	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
 
 > ~/monitoring.sh
 	*	1697273430	0
