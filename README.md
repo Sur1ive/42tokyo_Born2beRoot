@@ -2,7 +2,7 @@
 # Born2beroot
 **Final grade: 125%**:white_check_mark:</br>
 
-You need to create a Linux virtual machine in VirtualBox while implementing strict rules. Then, in the bonus part, you need to set up a functional WordPress website with the following services: lighttpd, MariaDB, and PHP. Finally, set up a service of your choice.
+You need to create a Linux virtual machine in VirtualBox while implementing strict rules. In the bonus part, you need to set up a functional WordPress website with the following services: lighttpd, MariaDB, and PHP. Then, set up a service of your choice.
 
 ## NOTICE 
 42 Project must be written in accordance with the 42 school norm, otherwise the grade is 0:
